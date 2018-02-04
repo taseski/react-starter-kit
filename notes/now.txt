@@ -1,0 +1,5 @@
+npm install -g now
+now --public // to deploy the app
+// requires to have 'start' script in package.json
+now ls // lists all instances
+now alias [instance] [alias] // sets alias to the instance => test.now.sh

@@ -1,0 +1,2 @@
+AppVeyor is CI server for Windows
+ci.appveyor.com --> login with Github and sync with github repository
